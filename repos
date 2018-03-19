@@ -1,2 +1,57 @@
 Wrap external models into a mobx observable array or map
 https://github.com/jamiewinder/mobx-bind
+
+like typeorm for mobx, useful for maintaining class instantiation also
+https://github.com/nathanstitt/mobx-decorated-models
+https://github.com/nathanstitt/object-factory-bot similar, but just es6Proxies and pojos
+
+
+http
+https://github.com/masylum/mobx-rest
+https://github.com/masylum/mobx-rest-example
+https://github.com/IranTIP/mobx-rest-axios-adapter
+
+app
+https://github.com/zenchef/mobx-react-controller
+
+forms
+https://github.com/alexhisen/mobx-schema-form -> https://github.com/alexhisen/mobx-form-store -> wraps ->
+https://github.com/networknt/react-schema-form
+
+
+https://github.com/marvinhagemeister/mobx-form-reactions
+
+validations
+https://github.com/tomaash/mobx-input
+https://github.com/marvinhagemeister/fast-json-validation
+
+
+example orgs
+https://github.com/Parity-JS
+https://github.com/general-language-syntax/gls-cli
+https://github.com/foxhound87/rfx-stack
+
+
+SRD (not neccesarily mobx)
+https://github.com/hamsterbacke23/workflow
+
+
+nice workflow modeling library based on JPQuery
+https://github.com/WinUP/workflow
+https://github.com/WinUP/LM2RENPY
+
+
+https://github.com/instructure/ftl-engine  -> production ETL and graph lib
+https://github.com/danielgerlag/workflow-es  -> inversify w/ azure provider
+https://github.com/rabix/
+
+https://github.com/dkozar/treelogy
+
+datagrid -w/ mobx
+https://github.com/jason-henriksen/react-json-grid
+
+ui libs
+https://github.com/instructure/instructure-ui
+
+layout
+https://github.com/dkozar/raycast-dom
