@@ -32,8 +32,12 @@ https://github.com/general-language-syntax/gls-cli
 https://github.com/foxhound87/rfx-stack
 
 
-SRD (not neccesarily mobx)
+#workflow SRD
 https://github.com/hamsterbacke23/workflow
+
+#workflows - other
+https://github.com/duo-labs/cloudmapper
+https://github.com/OpusCapita/fsm-workflow
 
 
 nice workflow modeling library based on JPQuery
@@ -46,12 +50,34 @@ https://github.com/danielgerlag/workflow-es  -> inversify w/ azure provider
 https://github.com/rabix/
 
 https://github.com/dkozar/treelogy
+https://github.com/georgeOsdDev/patternMatchify.js
+
 
 datagrid -w/ mobx
 https://github.com/jason-henriksen/react-json-grid
+
+datagrid no mobx
+https://github.com/OpusCapita/react-grid
 
 ui libs
 https://github.com/instructure/instructure-ui
 
 layout
 https://github.com/dkozar/raycast-dom
+https://github.com/dkozar
+https://github.com/jason-henriksen/fsl-mobx <- refit this to layout grid?
+https://github.com/noderaider/gridiron
+https://github.com/noderaider/react-sand
+
+https://github.com/musyoka-morris/react-pure-grid -> bootstrap grid, no css requirement
+https://github.com/dragma/styled-bootstrap-grid
+https://github.com/vitorinoninja/react-virtual-css-grid -> functional css grid,its new
+
+https://github.com/tomkp/react-split-pane
+https://github.com/tomkp/react-layout-pane/blob/master/demo/Example.js
+
+https://github.com/STRML/react-grid-layout
+https://github.com/dylanmoz/glamorous-grid
+
+#drag
+https://github.com/Canner/grid-draggable
