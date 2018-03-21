@@ -36,6 +36,7 @@ https://github.com/foxhound87/rfx-stack
 https://github.com/hamsterbacke23/workflow
 
 #workflows - other
+https://github.com/ivanbatic/cwl-svg -> winner
 https://github.com/duo-labs/cloudmapper
 https://github.com/OpusCapita/fsm-workflow
 
@@ -51,12 +52,20 @@ https://github.com/rabix/
 
 https://github.com/dkozar/treelogy
 https://github.com/georgeOsdDev/patternMatchify.js
+https://github.com/mourner/rbush
+https://github.com/mourner/flatbush
 
+
+dataviz
+https://github.com/hshoff/vx/
+
+https://github.com/plotly/react-pivottable
 
 datagrid -w/ mobx
 https://github.com/jason-henriksen/react-json-grid
 
 datagrid no mobx
+https://github.com/Wh1teRabbitHU/VirtualDataGrid WINNER
 https://github.com/OpusCapita/react-grid
 
 ui libs
@@ -69,6 +78,8 @@ https://github.com/jason-henriksen/fsl-mobx <- refit this to layout grid?
 https://github.com/noderaider/gridiron
 https://github.com/noderaider/react-sand
 
+
+https://github.com/JSxMachina/react-grid-system -> Bootstrap winner
 https://github.com/musyoka-morris/react-pure-grid -> bootstrap grid, no css requirement
 https://github.com/dragma/styled-bootstrap-grid
 https://github.com/vitorinoninja/react-virtual-css-grid -> functional css grid,its new
