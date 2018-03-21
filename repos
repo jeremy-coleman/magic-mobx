@@ -56,17 +56,24 @@ https://github.com/mourner/rbush
 https://github.com/mourner/flatbush
 
 
-dataviz
-https://github.com/hshoff/vx/
+#dataviz
+https://github.com/hshoff/vx/ <- d3 looks great
+https://github.com/plotly/react-pivottable 
+https://github.com/fraserxu/react-chartist <- chartist.js
 
-https://github.com/plotly/react-pivottable
+#dataviz - GL - react specific
+https://github.com/lucascassiano/react-cubeview
+https://github.com/lucascassiano/react-container-3d
+https://github.com/lucascassiano/experimental_three (IDE)
+https://github.com/lucascassiano/three-transform-controls
 
 datagrid -w/ mobx
 https://github.com/jason-henriksen/react-json-grid
 
 datagrid no mobx
-https://github.com/Wh1teRabbitHU/VirtualDataGrid WINNER
+https://github.com/Wh1teRabbitHU/VirtualDataGrid  <---- WINNER
 https://github.com/OpusCapita/react-grid
+
 
 ui libs
 https://github.com/instructure/instructure-ui
@@ -84,6 +91,7 @@ https://github.com/musyoka-morris/react-pure-grid -> bootstrap grid, no css requ
 https://github.com/dragma/styled-bootstrap-grid
 https://github.com/vitorinoninja/react-virtual-css-grid -> functional css grid,its new
 
+https://github.com/bytefunc/react-resize-layout <- good impl
 https://github.com/tomkp/react-split-pane
 https://github.com/tomkp/react-layout-pane/blob/master/demo/Example.js
 
@@ -92,3 +100,9 @@ https://github.com/dylanmoz/glamorous-grid
 
 #drag
 https://github.com/Canner/grid-draggable
+
+#gql
+https://github.com/octet-stream/parasprite
+
+#express - utils
+https://github.com/diedsmiling/api-extender (extend json body response based on route)
