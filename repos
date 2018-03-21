@@ -30,6 +30,7 @@ example orgs
 https://github.com/Parity-JS
 https://github.com/general-language-syntax/gls-cli
 https://github.com/foxhound87/rfx-stack
+https://github.com/cBioPortal/cbioportal-frontend
 
 
 #workflow SRD
@@ -39,12 +40,13 @@ https://github.com/hamsterbacke23/workflow
 https://github.com/ivanbatic/cwl-svg -> winner
 https://github.com/duo-labs/cloudmapper
 https://github.com/OpusCapita/fsm-workflow
-
+https://github.com/prometheusresearch/action <- yaml config 
 
 nice workflow modeling library based on JPQuery
 https://github.com/WinUP/workflow
 https://github.com/WinUP/LM2RENPY
 
+https://github.com/Wiredcraft/kue-jm <- redis job manager
 
 https://github.com/instructure/ftl-engine  -> production ETL and graph lib
 https://github.com/danielgerlag/workflow-es  -> inversify w/ azure provider
@@ -61,11 +63,12 @@ https://github.com/hshoff/vx/ <- d3 looks great
 https://github.com/plotly/react-pivottable 
 https://github.com/fraserxu/react-chartist <- chartist.js
 
-#dataviz - GL - react specific
+#dataviz -THREE/GL/etc - React specific
 https://github.com/lucascassiano/react-cubeview
 https://github.com/lucascassiano/react-container-3d
 https://github.com/lucascassiano/experimental_three (IDE)
 https://github.com/lucascassiano/three-transform-controls
+https://github.com/EcutDavid/webgl-workshop.git
 
 datagrid -w/ mobx
 https://github.com/jason-henriksen/react-json-grid
@@ -74,6 +77,7 @@ datagrid no mobx
 https://github.com/Wh1teRabbitHU/VirtualDataGrid  <---- WINNER
 https://github.com/OpusCapita/react-grid
 
+https://github.com/kayak/react-tisch (bootstrap table)
 
 ui libs
 https://github.com/instructure/instructure-ui
@@ -85,11 +89,13 @@ https://github.com/jason-henriksen/fsl-mobx <- refit this to layout grid?
 https://github.com/noderaider/gridiron
 https://github.com/noderaider/react-sand
 
+https://github.com/maslianok/react-resize-detector
 
 https://github.com/JSxMachina/react-grid-system -> Bootstrap winner
 https://github.com/musyoka-morris/react-pure-grid -> bootstrap grid, no css requirement
 https://github.com/dragma/styled-bootstrap-grid
 https://github.com/vitorinoninja/react-virtual-css-grid -> functional css grid,its new
+https://github.com/prometheusresearch/react-box <Vbox width=x height=x>
 
 https://github.com/bytefunc/react-resize-layout <- good impl
 https://github.com/tomkp/react-split-pane
@@ -100,6 +106,7 @@ https://github.com/dylanmoz/glamorous-grid
 
 #drag
 https://github.com/Canner/grid-draggable
+https://github.com/EcutDavid/react-dnd-example
 
 #gql
 https://github.com/octet-stream/parasprite
@@ -109,4 +116,20 @@ https://github.com/diedsmiling/api-extender (extend json body response based on 
 
 #electron - utils
 https://github.com/fraserxu/campjs (mad sci)
+https://github.com/fraserxu/electron-pdf (url, html, or md to PDF)
 
+#iframe usage
+https://github.com/EcutDavid/EcutDavid.github.io/blob/master/src/components/Work.js
+
+react events
+https://github.com/EcutDavid/react-lazy-loading-table
+https://github.com/EcutDavid/html-utilities ^ is using this
+
+react styling
+https://github.com/prometheusresearch/react-stylesheet <- very good
+
+react forms
+https://github.com/prometheusresearch/react-forms <- can use json schema, and style based on ^ react-stylesheets
+
+react - component libs
+https://github.com/prometheusresearch/react-ui
